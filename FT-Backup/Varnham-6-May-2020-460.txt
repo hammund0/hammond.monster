@@ -1,0 +1,361 @@
+# Varnham
+#
+# FamilyScript downloaded by Laurence Hammond on 6 May 2020.
+#
+# This file should be viewed as Unicode (UTF-8) character encoding.
+#
+# Created by Family Echo - http://www.familyecho.com/
+#
+iMS9D7	^START	gm	sD5IT7	pPaul	lHammond	mMC6B4	fUK1OM	qHammond	b19580000	r198499117 121 120
+iD5IT7	^START	gf	sMS9D7	pJane	lHammond	qVarnham	mL62E0	fYY5TI	b19540000	r184223104 120 120
+iSTART	mD5IT7	fMS9D7	pLaurence	lHammond	gm	qHammond	b19920000	r168994336 120 120
+iYY5TI	^D5IT7	gm	lVarnham	sL62E0	pMartin Horace	z1	mDPF64	fUOA5L	qVarnham	b19250000	d19960000	r273610758 120 120
+iL62E0	^D5IT7	gf	sYY5TI	lClarke	pFrances Evelyn	z1	qClarke	mQDHCI	fQ9R24	b19230000	d20020000	r676898762 120 120
+iEVB0O	^D5IT7	mL62E0	fYY5TI	lVarnham	qVarnham	pWilliam M	gm	sLHQ63	b19560000	r927832318 120 120
+iLHQ63	^EVB0O	gf	sEVB0O	lVarnham	pCarol	qAdams	b19580000	r926486959 114 120
+iJXXWD	^LHQ63	mLHQ63	fEVB0O	lVarnham	qVarnham	pLisa	gf	b19840000	r783481660 112 120
+iLDLOQ	^JXXWD	mLHQ63	fEVB0O	lVarnham	qVarnham	pLesley	gf	b19810000	r643486302 116 120
+iZIPON	^START	mD5IT7	fMS9D7	pBethany	lHall	qHammond	gf	sDZT73	b19940000	r861499673 120 120
+iOR1V7	^ZIPON	mD5IT7	fMS9D7	lHammond	qHammond	pJoseph	gm	sWO13C	b19860000	r134447367 122 120
+iZ0A8G	^OR1V7	mD5IT7	fMS9D7	lMann	qHammond	pLaura Jane	gf	sW2XI5	b19820000	r241741886 119 120
+iJF8NX	^D5IT7	mD5IT7	fT1J6G	pLee	lBaines	gm	sTH0PA	qBaines	b19750000	r302932866 117 120
+iT1J6G	^JF8NX	gm	pColin	lBaines	qBaines	b19540000	r341575668 97 120
+iE68K7	^D5IT7	mL62E0	fYY5TI	lVarnham	qVarnham	pRobert	gm	z1	sPC0P7	b19550000	d20130000	r309814339 102 120
+iPC0P7	^E68K7	gf	sE68K7	lVarnham	pAngela	qNewman	b19620000	r152561128 123 120
+iJT38D	^E68K7	mPC0P7	fE68K7	lVarnham	qVarnham	pJames	z1	gm	b19890000	d20190000	r948692891 120 120
+iWMO98	^JT38D	mPC0P7	fE68K7	lVarnham	qVarnham	pMatthew	gm	b19890000	r128636627 118 120
+iHNFGL	^WMO98	mPC0P7	fE68K7	lVarnham	qVarnham	pDavid	gm	b19820000	r861928163 120 119
+iREEPS	^L62E0	mL62E0	fYY5TI	lVarnham	pDiane	gf	z1	qVarnham	b19460000	d19470000
+iZ9Q9O	^L62E0	mL62E0	fYY5TI	lVarnham	qClarke	pMartin Austin	z1	gm	r112481693 120 120	b19480000	d19520000
+iQ9R24	^L62E0	gm	lClarke	sQDHCI	pWilliam A	z1	mXL79V	fV9OZ3	qClarke	b18920000	d19730000	r971938992 120 120
+iQDHCI	^L62E0	gf	sQ9R24	lRoussell	pElsie Viel	z1	mEFKSZ	fA886Y	qRoussell	b18920000	d19370000	r824136527 120 120
+iA886Y	^QDHCI	gm	z1	sEFKSZ	pJohn Sirin	lRoussell	mFL2HA	fXN2DM	qRoussell	b18730000	d19050000	r185498652 120 120
+iEFKSZ	^QDHCI	gf	sA886Y	z1	pMary Emily	lGibbons	mE4C8Q	fVF55S	qGibbons	b18710000	d19290000	r214918001 120 120
+iOI4EH	^QDHCI	mEFKSZ	fA886Y	pHerbert	lRoussell	z1	gm	qRoussell	b18910000
+iQVUD3	^OI4EH	mEFKSZ	fA886Y	pSirin Milton	lRoussell	gm	z1	sU4ULY	qRoussell	b18950000	d19510000	r684699798 120 120
+iU4ULY	^QVUD3	gf	sQVUD3	lRoussell	pEdith E B	z1	qRasumusson	d19550000
+iURO9I	^EFKSZ	gm	z1	pFoster	lBrown	qBrown	b18660000	d19280000
+iQCLKA	^EFKSZ	mEFKSZ	fURO9I	pFoster Brown	lRoussell	gm	z1	sLVJFK	qRoussell	b18960000
+iLVJFK	^QCLKA	gf	sQCLKA	lAndrus	pDora L M	z1
+iNTYYX	^QCLKA	mEFKSZ	fURO9I	pPascoe B	lRoussell	gm	z1	sQHO7Z	qRoussell	b18970000	d19520000
+iQHO7Z	^NTYYX	gf	sNTYYX	lMulvihill	pAnnie F	z1
+iZ6HOU	^NTYYX	mEFKSZ	fURO9I	pMarjorie F	lBrown	gf	z1	sKSRBC	qBrown	b19010000	d19590000
+iKSRBC	^Z6HOU	gm	sZ6HOU	lCooke	pArthur W	z1	qCooke	b18940000	d19740000
+iZPSZH	^Z6HOU	mEFKSZ	fURO9I	pPhyllis Irene	lBrown	gf	z1	qBrown	b19020000	d19650000
+iP9GIU	^ZPSZH	mEFKSZ	fURO9I	pSydney H	lBrown	gm	z1	sWMH93	qBrown	b19060000	d19840000
+iWMH93	^P9GIU	gf	sP9GIU	lSewell	pNora Phyllis	z1	qSewell	b19060000	d19950000
+iEQIMO	^P9GIU	mEFKSZ	fURO9I	pFlorence E	lBrown	gf	z1	qBrown	b19080000	d19780000
+iVWN8C	^EQIMO	mEFKSZ	fURO9I	pFrances Emily	lBrown	gf	z1	qBrown	b19080000	d19930000
+iZGT1W	^VWN8C	mEFKSZ	fURO9I	pPascoe Alfred	lBrown	gm	z1	qBrown	b19120000	d19680000
+iKWIJW	^ZGT1W	mEFKSZ	fURO9I	pGordon C	lBrown	gm	z1	qBrown	b19150000	d19660000	r778012089 120 120
+iVF55S	^EFKSZ	gm	z1	sE4C8Q	pGeorge M	lGibbons	mIT8IY	fNRS9Z	qGibbons	b18320000	d18990000
+iE4C8Q	^EFKSZ	gf	sVF55S	z1	pMary Anne	lCasey	mRSF2E	fIZUKU	qCasey	b18480000	d19280000
+iXN2DM	^A886Y	gm	z1	sFL2HA	pPiearre F S	lRoussell	mDSBJQ	fHYIFB	qRoussell	b18450000
+iFL2HA	^A886Y	gf	sXN2DM	z1	pEsther E	lViel	mF8SGG	fMRKM5	qViel	b18490000	d19240000
+iWT4NB	^A886Y	mFL2HA	fXN2DM	pJulia Anne	lRoussell	gf	z1	sZTPHP	r818932253 120 120	qRoussell	b18840000	d19310000
+iEWE0K	^WT4NB	mFL2HA	fXN2DM	pMaria Jane	lRoussell	gf	z1	sMF4LP	qRoussell	b18820000	d19600000
+iQYYON	^EWE0K	mFL2HA	fXN2DM	pAlbert E	lRoussell	gm	z1	sTEHXX	qRoussell	b18800000	d19410000
+iKVRH7	^QYYON	mFL2HA	fXN2DM	pGeorge F	lRoussell	gm	z1	sM75KW	qRoussell	b18790000	d19700000
+iDKFPV	^KVRH7	mFL2HA	fXN2DM	pPhilip George	lRoussell	gm	z1	sKIGE4	qRoussell	b18770000	d19320000	r652956626 81 120
+iN24DJ	^DKFPV	mFL2HA	fXN2DM	pElizabeth M A	lRoussell	gf	z1	sIIO6Q	qRoussell	b18750000
+iH9NQ2	^N24DJ	mFL2HA	fXN2DM	pPeter Frances	lRoussell	gm	z1	qRoussell	b18680000	d19220000
+iTCTDX	^EFKSZ	mE4C8Q	fVF55S	pFrederick A	lGibbons	gm	z1	qGibbons	b18660000	d19280000
+iIHB5E	^TCTDX	mE4C8Q	fVF55S	pGeorge M	lGibbons	gm	z1	qGibbons	b18660000	d18660000
+iH75FU	^IHB5E	mE4C8Q	fVF55S	pLouanna F	lGibbons	gf	z1	qGibbons	b18670000
+iKIB79	^H75FU	mE4C8Q	fVF55S	pJoshua	lGibbons	gm	z1	qGibbons	b18740000
+iG6LOT	^KIB79	mE4C8Q	fVF55S	pEdith	lGibbons	gf	z1	qGibbons	b18770000	d19510000	sFEJG2
+iSQLHL	^G6LOT	mE4C8Q	fVF55S	pHerbert S	lGibbons	gm	z1	qGibbons	b18800000	d19180000	sCIUC1
+iJV0PN	^SQLHL	mE4C8Q	fVF55S	pAlfred	lGibbons	gm	z1	qGibbons	b18850000
+iV9OZ3	^Q9R24	gm	z1	pJohn	lClarke	mYD5ED	fRWF3X	qClarke	b18540000	d19000000
+iXL79V	^Q9R24	gf	z1	pElizabeth	lDennis	mWGK7E	fEHKXZ	qDennis	b18580000	d19490000
+iHUDHX	^Q9R24	mXL79V	fV9OZ3	pSelina Evelyn	lClarke	gf	z1	sQXKT6	qClarke	b18900000	d19160000
+iQXKT6	^HUDHX	gm	sHUDHX	lTownsend	pSamuel	z1	qTownsend	b18860000
+iIJK5Z	^QXKT6	mHUDHX	fQXKT6	lTownsend	qTownsend	pSamuel W	z1	gm	b19150000	d19160000
+iUBIS0	^HUDHX	mXL79V	fV9OZ3	pJohn Robert	lClarke	gm	z1	sS4967	qClarke	b18880000	d19550000
+iERW0X	^UBIS0	gf	lBarker	pHarriett E	z1	qBarker	b18920000
+iS4967	^UBIS0	gf	sUBIS0	lWood	pAlice H	z1	qWood	b18850000
+iZ3A6A	^UBIS0	mXL79V	fV9OZ3	pSamuel E	lClarke	gm	z1	sWOPJJ	qClarke	b18870000	d19700000
+iR8FUB	^Z3A6A	mXL79V	fV9OZ3	pElizabeth	lClarke	gf	z1	qClarke	b18770000	d18820000
+iWOPJJ	^Z3A6A	gf	sZ3A6A	lRigley	pEllen	z1	qRigley	b18900000	d19600000
+iFAXGQ	^Z3A6A	mWOPJJ	fZ3A6A	lClarke	qClarke	pLeslie John T	gm	z1	b19240000	d20110000
+iCKUQ0	^FAXGQ	mWOPJJ	fZ3A6A	lClarke	qClarke	pSelina Evelyn	gf	z1	b19200000	d19930000
+iYU92Z	^CKUQ0	mWOPJJ	fZ3A6A	lClarke	qClarke	pNorha	gf	z1	sO4ZJ1	b19150000	d19850000
+iO4ZJ1	^YU92Z	gm	sYU92Z	lGough	pJohn Vincent	z1
+iCWARE	^XL79V	gm	lWhyman	pGeorge A	z1	qWhyman	b18510000	d19080000
+iXAN5K	^XL79V	gm	sLELR3	lSpringthorpe	pIsaac	z1	qSpringthorpe	b18580000	d19220000
+iRWF3X	^V9OZ3	gm	z1	sYD5ED	pRobert	lClarke	mK2S81	fZ2UCO	qClarke	b18210000
+iYD5ED	^V9OZ3	gf	sRWF3X	z1	pElizabeth	lNeale	mWWKC2	fCOSE2	qNeale	b18320000	d19110000
+iE52EU	^V9OZ3	mYD5ED	fRWF3X	pFrederick	lClarke	gm	z1	qClarke	b18640000	d19170000
+iBITWS	^E52EU	mYD5ED	fRWF3X	pRobert	lClarke	gm	z1	qClarke	b18590000	sFLDEC
+iUABR6	^BITWS	mYD5ED	fRWF3X	pElizabeth	lClarke	gf	z1	qClarke	b18570000
+iHYRJ5	^UABR6	mYD5ED	fRWF3X	pMary Ann	lClarke	gf	z1	qClarke	b18550000
+iV9FT3	^HYRJ5	mYD5ED	fRWF3X	pEllen	lClarke	gf	z1	qClarke	b18480000
+iRV831	^V9FT3	mYD5ED	fRWF3X	pSarah	lClarke	gf	z1	qClarke	b18470000
+iKA7ND	^RV831	mYD5ED	fRWF3X	pWilliam	lClarke	gm	z1
+iEHKXZ	^XL79V	gm	z1	sWGK7E	pSamuel	lDennis	qDennis	b18260000	d19060000
+iWGK7E	^XL79V	gf	sEHKXZ	z1	pElizabeth	lCank	mYIIQ0	fSFR3J	qCank	b18240000	d19060000
+iC0RX3	^XL79V	mWGK7E	fEHKXZ	pEdward	lDennis	gm	qDennis	z1	sXPO5N	b18470000	d19160000
+iO8QJP	^C0RX3	mWGK7E	fEHKXZ	pSamuel Henry	lDennis	gm	z1	sSYA13	qDennis	b18550000
+iW1ZO5	^O8QJP	mWGK7E	fEHKXZ	pSelina	lDennis	gf	z1	sC0T9X	qDennis	b18610000	d19270000
+iS2116	^W1ZO5	mWGK7E	fEHKXZ	pAlbert	lDennis	gm	z1	sFQWMF	qDennis	b18630000
+iW2XI5	^Z0A8G	gm	sZ0A8G	lMann	pJames	qMann	b19830000	r287657715 61 120
+iG3MTT	^W2XI5	mZ0A8G	fW2XI5	lMann	qMann	pOliver	gm	b20070000	r183376271 122 120
+iQCDB7	^G3MTT	mZ0A8G	fW2XI5	lMann	qMann	pOscar	gm	b20100000	r836680006 116 120
+iK22FK	^QCDB7	mZ0A8G	fW2XI5	lMann	qMann	pPoppy	gf	b20120000	r728428078 111 120
+iWO13C	^OR1V7	gf	sOR1V7	lHammond	pLisa Marie	qStuart	b19850000	r989231661 120 120
+iS93BF	^OR1V7	mWO13C	fOR1V7	lHammond	qHammond	pPhoebe	gf	b20160000	r353670030 118 120
+iJN15F	^S93BF	mWO13C	fOR1V7	lHammond	qHammond	pJacob	gm	b20190000	r631689661 120 120
+iTH0PA	^JF8NX	gf	sJF8NX	lBaines	pRebecca	qMills	b19770000	r175122215 118 120
+iN7CBP	^JF8NX	mTH0PA	fJF8NX	lBaines	qBaines	pFrancesca	gf	b20100000	r160011314 126 120
+iNRS9Z	^VF55S	gm	z1	sIT8IY	pJoshua	lGibbons	qGibbons	b17860000
+iIT8IY	^VF55S	gf	sNRS9Z	z1	pFrances	lMendham	qMendham	b17980000	d18650000
+iIZUKU	^E4C8Q	gm	z1	sRSF2E	pJohn	lCasey	qCasey	b18160000	d18610000
+iRSF2E	^E4C8Q	gf	sIZUKU	z1	pEliza Frances	lQuinn	qQuinn	b18150000	d18610000
+iK7D8F	^E4C8Q	mRSF2E	fIZUKU	gf	z1	pDelia Crofton	lCasey	qCasey	b18500000
+iMRKM5	^FL2HA	gm	z1	sF8SGG	pFrancois L E	lViel	qViel	b18170000	d18860000	r734615334 84 120
+iF8SGG	^FL2HA	gf	sMRKM5	z1	pDouce	lLe Huquet	mDEKEI	fJ7L36	qLe Huquet	b18190000	d18840000
+iJ7L36	^F8SGG	gm	z1	sDEKEI	pThomas	lLe Hucquet	mWU5GH	fLAI5G	qLe Hucquet	b17850000
+iDEKEI	^F8SGG	gf	sJ7L36	z1	pElizabeth	lRenouf
+iLAI5G	^J7L36	gm	z1	sWU5GH	pThomas	lLe Hucquet
+iWU5GH	^J7L36	gf	sLAI5G	z1	pMarle	lPallot
+iFP9Z4	^F8SGG	mDEKEI	fJ7L36	pPhillippe	lLe Huquet	gm	z1	sIRWTB	qLe Huquet	b18150000
+iIRWTB	^FP9Z4	gf	sFP9Z4	lRenouf	pEsther	z1
+iC4INU	^FP9Z4	mDEKEI	fJ7L36	pThomas	lLe Huquet	gm	z1
+iR3KBT	^C4INU	mDEKEI	fJ7L36	pSusan	lLe Huquet	gf	z1
+iHJBOG	^R3KBT	mDEKEI	fJ7L36	pMaria	lLe Huquet	gf	z1
+iUSSAJ	^HJBOG	mDEKEI	fJ7L36	pElizabeth	lLe Huquet	gf	z1
+iJ51TF	^FL2HA	mF8SGG	fMRKM5	pFrances A	lViel	gm	z1	sCYVZ4	r212020350 120 120	qViel	b18470000	d19210000
+iCYVZ4	^J51TF	gf	sJ51TF	lLe Vescomte	pAnn	z1
+iIQ9ZS	^J51TF	mCYVZ4	fJ51TF	lViel	qViel	pAnne Jane D	gf	z1	b18670000	d19220000
+iK030J	^IQ9ZS	mCYVZ4	fJ51TF	lViel	qViel	pDouce Ann	gf	z1	b18680000	d18710000
+iHXPHG	^K030J	mCYVZ4	fJ51TF	lViel	qViel	pFlorance E	gf	z1	b18720000	d18960000
+iFUA64	^HXPHG	mCYVZ4	fJ51TF	lViel	qViel	pFrances P J	gm	z1	sHQBJY	b18780000	d19270000
+iHQBJY	^FUA64	gf	sFUA64	lMessner	pElla May	z1	qMessner	r740168792 72 120	b18820000	d19500000
+iOGTBL	^FUA64	mHQBJY	fFUA64	lViel	qViel	pAnne Baebara	gf	z1
+iZSEZI	^J51TF	mF8SGG	fMRKM5	pFrank P	lViel	z1	gm	qViel	b18460000
+iSRTKU	^ZSEZI	mF8SGG	fMRKM5	pAnne Louisa	lViel	gf	z1	sP7TFA	qViel	b18440000
+iP7TFA	^SRTKU	gm	sSRTKU	lLemare	pJacques A	z1	qLemare	b18100000
+iXUENB	^SRTKU	mF8SGG	fMRKM5	pJane Modeste	lViel	gf	z1	sVO2Y3	qViel	b18430000	d19260000
+iVO2Y3	^XUENB	gm	sXUENB	lBreuilly	pPierre E	z1	qBreuilly	b18390000	d19290000
+iVVT0J	^XUENB	mF8SGG	fMRKM5	gf	z1	pDoude Mary	lViel	sVNLQM	qViel	b18420000
+iVNLQM	^VVT0J	gm	sVVT0J	lVasselon	pBazile P B	z1	qVasselon	b18310000
+iZTPHP	^WT4NB	gm	sWT4NB	lHill	pEwart E	z1	r615767680 160 116	qHill	b18880000	d19520000
+iEBDXE	^ZTPHP	mWT4NB	fZTPHP	lHill	qHill	pDallas Laurel	gf	z1	b19180000	d19830000
+iTBGM0	^EBDXE	mWT4NB	fZTPHP	lHill	qHill	pGloria Viel	gf	z1	sB3LFN	b19170000	d20090000
+iB3LFN	^TBGM0	gm	sTBGM0	lRowe	pGeorge E	z1	qRowe	b19150000	d19900000
+iMF4LP	^EWE0K	gm	sEWE0K	lCossey	pGeorge	z1	qCossey	b18820000
+iIXWI4	^EWE0K	mEWE0K	fMF4LP	lCossey	pEdwyna R	gf	z1	sLPG2V	qCossey	b19100000	d19840000	r134518050 120 120
+iLPG2V	^IXWI4	gm	sIXWI4	lHunter	pGeoffery	z1	qHunter	b19070000
+iTEHXX	^QYYON	gf	sQYYON	lBell	pJessie Maud	z1	qBell	b18860000
+iM75KW	^KVRH7	gf	sKVRH7	lRoussell	pSarah Lee	z1
+iKIGE4	^DKFPV	gf	sDKFPV	lFoote	pJane	z1	qFoote	b18790000	d19440000
+iPP5AO	^DKFPV	mKIGE4	fDKFPV	lRoussell	qRoussell	pEric Alwyn	gm	z1	b19110000	d19770000	r767274795 120 120
+iG9160	^PP5AO	mKIGE4	fDKFPV	lRoussell	qRoussell	pKenneth G	gm	z1	b19080000	d19130000
+iHS973	^G9160	mKIGE4	fDKFPV	lRoussell	qRoussell	pRaymond	gm	z1	b19060000	d19380000
+iY627S	^HS973	mKIGE4	fDKFPV	lRoussell	qRoussell	pPhilip Harold	gm	z1	b19040000	d19770000
+iWJTKJ	^Y627S	mKIGE4	fDKFPV	lRoussell	qRoussell	pMay Vielle	gf	z1	b19010000	d19610000	r834968574 70 120
+iIIO6Q	^N24DJ	gm	sN24DJ	lJenkin	pSam	z1
+iHYIFB	^XN2DM	gm	z1	pSirin	lRoussell
+iSFR3J	^WGK7E	gm	sYIIQ0	pEdward	lCank	qCank	z1
+iYIIQ0	^WGK7E	gf	sSFR3J	pSarah	lHarris	qHarris	z1	b18010000
+iFQWMF	^S2116	gf	sS2116	lStocks	pButha Edith	z1
+iC0T9X	^W1ZO5	gm	sW1ZO5	lAlfrey	pWilliam E	z1	mA7BOX	fX1XCX	qAlfrey	d18910000
+iT8QQP	^W1ZO5	mW1ZO5	fC0T9X	lAlfrey	pJane	gf	z1	qAlfrey	b18890000
+iX1XCX	^C0T9X	gm	z1	sA7BOX	pWilliam	lAlfrey	qAlfrey	b18290000	d18980000
+iA7BOX	^C0T9X	gf	sX1XCX	z1	pEliza	lAlfey	qAlfey	b18300000
+iLELR3	^XAN5K	gf	sXAN5K	lPowlett	pElizabeth	z1	qPowlett	b18570000	d19090000
+iSYA13	^O8QJP	gf	sO8QJP	lStringer	pElizabeth A	z1	qStringer	b18640000
+iE4QUO	^O8QJP	mSYA13	fO8QJP	lDennis	qDennis	pSamuel H	gm	z1	b18900000
+iI1483	^E4QUO	mSYA13	fO8QJP	lDennis	qDennis	pEllen	gf	z1	b18920000
+iXPO5N	^C0RX3	gf	sC0RX3	lDennis	pAnn	z1	qDennis
+iCOSE2	^YD5ED	gm	z1	pWilliam	lNeale	qNeale	b17810000
+iZ2UCO	^RWF3X	gm	z1	sK2S81	pRobert	lClarke	mBS755	fQD2QH	qClarke	b17770000	d18300000
+iK2S81	^RWF3X	gf	sZ2UCO	z1	pSarah	lAustin	mQ9TYT	fL57YW	qAustin	b17920000	d18630000
+iL57YW	^K2S81	gm	z1	sQ9TYT	pJohn	lAustin
+iQ9TYT	^K2S81	gf	sL57YW	z1	pEliza	lLayfield
+iQD2QH	^Z2UCO	gm	z1	sBS755	pThomas	lClarke	qClarke	b17390000
+iBS755	^Z2UCO	gf	sQD2QH	z1	pMary	lAllett	mYNB3G	fNQ4QJ	qAllett	b17380000
+iGVY1S	^Z2UCO	mBS755	fQD2QH	pThomas	lClarke	gm	z1
+iG4IXY	^GVY1S	mBS755	fQD2QH	pWilliam	lClarke	gm	z1
+iDDAWE	^G4IXY	mBS755	fQD2QH	gf	pAnne	lClarke	qClarke	z1
+iKM15K	^DDAWE	mBS755	fQD2QH	pJohn	lClarke	gm	z1
+iNQ4QJ	^BS755	gm	z1	sYNB3G	pRobert	lAllett	mSX9BK	fUCGQC	qAllett	b17090000	d17590000
+iYNB3G	^BS755	gf	sNQ4QJ	z1	pAnne	lSculthorpe	mK8JJK	fEMB6N	qSculthorpe	d17730000
+iF9WCV	^BS755	mYNB3G	fNQ4QJ	pAnne	lAllett	gf	z1
+iW8H13	^F9WCV	mYNB3G	fNQ4QJ	pThomas	lAllett	gm	z1
+iCW2CL	^W8H13	mYNB3G	fNQ4QJ	pJohn	lAllett	gm	z1
+iYTQTA	^CW2CL	mYNB3G	fNQ4QJ	pAnne	lAllett	gf	z1
+iNXK0Z	^YTQTA	mYNB3G	fNQ4QJ	pJohn	lAllett	gm	z1
+iM1YM8	^NXK0Z	mYNB3G	fNQ4QJ	pRobert	lAllett	gm	z1
+iJHRNJ	^M1YM8	mYNB3G	fNQ4QJ	pWilliam	lAllett	gm	z1
+iEMB6N	^YNB3G	gm	z1	sK8JJK	pRobert	lSculthorpe	qSculthorpe	b16900000
+iK8JJK	^YNB3G	gf	sEMB6N	z1	pAnn	lSculthorpe	qSculthorpe	b16900000
+iUCGQC	^NQ4QJ	gm	z1	pWilliam	lAllett	qAllett	b16630000	d17280000
+iUOA5L	^YY5TI	gm	pJoseph	lVarnham	z1	mAV1FP	fFXHWO	qVarnham	b19020000	d19330000
+iDPF64	^YY5TI	gf	sK44RO	pElizabeth May	lRyan	z1	mH11KI	fZR86K	qRyan	b19040000	d19620000	r815098672 120 120
+iOR0KE	^YY5TI	mDPF64	fUOA5L	pJoseph C C	lVarnham	z1	gm	r134628630 160 101	qVarnham	b19230000	d19440000
+iJGI9F	^OR0KE	mDPF64	fUOA5L	pJames M	lVarnham	gm	z1	r445743822 120 120	qVarnham	b19330000	d20160000
+iK2T9E	^DPF64	gm	lGreasley	pHorace A	z1	r998498692 120 120	qGreasley	b18990000	d19620000
+iO26PC	^K2T9E	mDPF64	fK2T9E	lGreasley	qGreasley	pMalcolm A	gm	z1	sVGKXA	r932334699 120 120
+iL3BJM	^O26PC	mDPF64	fK2T9E	lGreasley	qGreasley	pDavid	gm	z1	r350890356 120 120
+iVGKXA	^O26PC	gf	sO26PC	lBale	pDorathy	z1	r557733953 120 120
+iFXHWO	^UOA5L	gm	z1	sAV1FP	pJoseph	lVarnam	mDIKJN	fO67FF	qVarnam	b18760000	d19520000
+iAV1FP	^UOA5L	gf	sFXHWO	z1	pLucy Ann	lJaques	mX6T8B	fXQV9B	qJaques	b18790000	d19360000
+iDZT73	^ZIPON	gm	sZIPON	lHall	pJoshua	qHall	b19940000	r453647564 120 120
+iX6T8B	^AV1FP	gf	z1	pEmma	lJaques	qJaques	mHS4FO	fHHOUW	b18570000
+iHHOUW	^X6T8B	gm	lJacques	z1	sHS4FO	pThomas	qJacques	b18230000
+iHS4FO	^X6T8B	gf	sHHOUW	lBeale	z1	pCaroline	qBeale	b18200000
+iO67FF	^FXHWO	gm	z1	sDIKJN	pWilliam	lVarnam	mXWOGF	fF3R43	qVarnam	b18420000	d18800000
+iDIKJN	^FXHWO	gf	sO67FF	z1	pEmma	lRoe	mCZ10C	fSI9XF	qRoe	b18460000
+iMONFK	^FXHWO	mDIKJN	fO67FF	pGeorge H	lVarnam	gm	z1	qVarnam	b18800000	d19020000
+iIZWQS	^MONFK	mDIKJN	fO67FF	pThomas	lVarnam	z1	gm	qVarnam	b18780000	d18810000
+iOZ9JQ	^IZWQS	mDIKJN	fO67FF	pJohn	lVarnam	z1	gm	sL5ANN	qVarnam	b18730000	d19150000
+iE4V4L	^OZ9JQ	mDIKJN	fO67FF	pWilliam	lVarnam	gm	z1	sCML42	qVarnam	b18700000	d19300000
+iV6MK3	^E4V4L	mDIKJN	fO67FF	pEliza	lVarnam	z1	gf	qVarnam	sEI32U	b18680000	d19540000
+iPJTMK	^V6MK3	mDIKJN	fO67FF	pBetsy	lVarnam	gf	z1	sKXNX6	qVarnam	b18660000	d19450000
+iSI9XF	^DIKJN	gm	z1	sCZ10C	pThomas	lRoe	mGYDHS	fUHZOY	qRoe	b18240000	d18910000
+iCZ10C	^DIKJN	gf	sSI9XF	z1	pSarah	lDallison	mFTZ3V	fPZKON	qDallison	b18250000	d18630000
+iJ0X5O	^DIKJN	mCZ10C	fSI9XF	pSarah	lRoe	gf	z1	qRoe	b18490000
+iPZKON	^CZ10C	gm	z1	sFTZ3V	pRobert	lDallison	qDallison	b17930000	d18710000
+iFTZ3V	^CZ10C	gf	sPZKON	z1	pMartha	lDallison	qDallison	b17870000	d18600000
+iUHZOY	^SI9XF	gm	z1	sGYDHS	pWilliam	lRoe	qRoe	b17830000	d18510000
+iGYDHS	^SI9XF	gf	sUHZOY	z1	pAnn	lRoe	qRoe	b17830000	d18530000
+iF3R43	^O67FF	gm	z1	sXWOGF	pWilliam	lVarnam
+iXWOGF	^O67FF	gf	sF3R43	z1	pBetsy	lDaykin
+iOMNC7	^O67FF	mXWOGF	fF3R43	pJoseph	lVarnam	z1	qVarnam	gm	b18460000
+iY8UT9	^OMNC7	mXWOGF	fF3R43	lVarnam	qVarnam	pBetsy	gf	z1	b18420000
+iMPC1Q	^Y8UT9	mXWOGF	fF3R43	lVarnam	qVarnam	pJohn	z1	gm	b18410000
+iI8GGG	^MPC1Q	mXWOGF	fF3R43	lVarnam	qVarnam	pHannah	gf	z1	sL8Y5V	b18370000
+iL8Y5V	^I8GGG	gm	sI8GGG	lMulling	pEdward	z1
+iL5ANN	^OZ9JQ	gf	sOZ9JQ	lRussell	pFlorance	qRussell	z1	b18700000
+iTRXLM	^L5ANN	mL5ANN	fOZ9JQ	lVarnham	qVarnham	pAnnie	z1	gf	b18990000
+iQAJS4	^TRXLM	mL5ANN	fOZ9JQ	lVarnham	qVarnham	pJohn	gm	z1	b19010000	d19430000
+iL4D3T	^QAJS4	mL5ANN	fOZ9JQ	lVarnham	qVarnham	pGeorge	z1	gm	b19030000
+iQCVTX	^L4D3T	mL5ANN	fOZ9JQ	lVarnham	pPercy	gm	z1	qVarnham	b19050000	d19780000
+iDZB90	^QCVTX	mL5ANN	fOZ9JQ	pGrace	lVarnham	gf	z1	qVarnham	b19070000
+iIYLO7	^DZB90	mL5ANN	fOZ9JQ	pConnie	lVarnham	gf	z1	qVarnham	b19100000
+iP7L5T	^PJTMK	gm	lGudger	pReuben	z1	qGudger	b18640000	d18940000
+iKXNX6	^PJTMK	gm	sPJTMK	lHolland	pEdward	z1	qHolland	b18660000
+iU0FTW	^PJTMK	mPJTMK	fP7L5T	pReuben	lGudger	gm	z1	qGudger	b18870000
+iXTJ82	^U0FTW	mPJTMK	fP7L5T	pSusannah	lGudger	gf	z1	sZMR56	qGudger	b18900000
+iZMR56	^XTJ82	gm	sXTJ82	lHill	pJoseph	z1
+iT2IN2	^XTJ82	mXTJ82	fZMR56	lHill	pAnnie E	gf	z1	qHill	b19120000
+iKUG0I	^XTJ82	mPJTMK	fP7L5T	pJohn	lGudger	gm	z1	qGudger	b18910000
+iOJCO8	^KUG0I	mPJTMK	fP7L5T	pHarry R	z1	gm	lGudger	qGudger	b18920000
+iK8BKX	^PJTMK	mPJTMK	fKXNX6	lHolland	pReuben	gm	z1	qHolland	b18920000
+iPJZJ2	^K8BKX	mPJTMK	fKXNX6	pJohn	lHolland	gm	z1	qHolland	b18910000
+iUQ20E	^PJZJ2	mPJTMK	fKXNX6	pHarry	lHolland	gm	z1	qHolland	b18920000
+iQO81E	^UQ20E	mPJTMK	fKXNX6	pEdward	lHolland	gm	z1	qHolland	b18960000	d19560000
+iVOCF6	^QO81E	mPJTMK	fKXNX6	pRachel	lHolland	gf	z1	qHolland	b18970000
+iJPTIJ	^VOCF6	mPJTMK	fKXNX6	pErnest	lHolland	gm	z1	qHolland	b19000000
+iI8GJ4	^JPTIJ	mPJTMK	fKXNX6	pJack	lHolland	gm	z1	qHolland	b19030000
+iTUDBG	^I8GJ4	mPJTMK	fKXNX6	gf	pJennie	lHolland	z1	qHolland	b19040000
+iEI32U	^V6MK3	gm	sV6MK3	lDraper	pHarry R	z1	mTBNL2	fOYYNM	qDraper	b18640000	d19160000
+iDZ270	^V6MK3	mV6MK3	fEI32U	lVarnham	pHarry R D	gm	z1	qVarnham	b18860000	d18880000
+iU1QIL	^DZ270	mV6MK3	fEI32U	pHerbert	lDraper	gm	z1	qDraper	b18920000
+iB9Y2T	^U1QIL	mV6MK3	fEI32U	pErnest	lDraper	gm	z1	qDraper	b18940000
+iDROB1	^B9Y2T	mV6MK3	fEI32U	pElsie	lDraper	gf	z1	qDraper	b18960000	d18960000
+iD3PZP	^DROB1	mV6MK3	fEI32U	pBetrice	lDraper	gf	z1	r180330163 85 120	qDraper	b18990000
+iHF5J7	^D3PZP	mV6MK3	fEI32U	pLiley	lDraper	gf	z1	qDraper	b19010000
+iHT843	^HF5J7	mV6MK3	fEI32U	pHilda	lDraper	gf	z1	qDraper	b19030000
+iA9WY3	^HT843	mV6MK3	fEI32U	gf	pNorah Annie	lDraper	z1	sEDCWB	qDraper	b19070000	d20020000
+iEDCWB	^A9WY3	gm	sA9WY3	lGraber	pWilliam	z1	qGraber	b19030000	d19660000
+iOYYNM	^EI32U	gm	z1	sTBNL2	pJames	lDraper	mL74AZ	fNX31O
+iTBNL2	^EI32U	gf	sOYYNM	z1	pEliza	lKing	mAO24R	fLQHJ8
+iLQHJ8	^TBNL2	gm	z1	pJohn	lKing
+iNX31O	^OYYNM	gm	z1	sL74AZ	pJames	lDraper
+iL74AZ	^OYYNM	gf	sNX31O	z1	pAnne Stevens	lDraper	qDraper
+iCML42	^E4V4L	gf	sE4V4L	lCoe	pMary Jane	z1	qCoe	b18740000	d19250000
+iG0BRU	^E4V4L	mCML42	fE4V4L	lVarnham	qVarnham	pEmma	gf	z1	sRBDK4	b18920000
+iRBDK4	^G0BRU	gm	sG0BRU	lBerrington	pWilliam H	z1
+iETCO4	^G0BRU	mG0BRU	fRBDK4	lBerrington	pLilian V	gf	z1	qBerrington	b19130000
+iJDG14	^ETCO4	mG0BRU	fRBDK4	pDoris H	lBerrington	gf	z1	qBerrington	b19150000
+iKLXCF	^G0BRU	mCML42	fE4V4L	lVarnham	qVarnham	pWilliam	z1	gm	b18950000	d18960000
+iPU9WI	^KLXCF	mCML42	fE4V4L	lVarnham	qVarnham	pGeorge A	gm	z1	sM9255	b18980000	d19300000
+iM9255	^PU9WI	gf	sPU9WI	lButcher	pElsie M	z1	qButcher
+iGBEDY	^PU9WI	mCML42	fE4V4L	lVarnham	qVarnham	pWilliam Alfred	gm	z1	b18990000	d19600000
+iS2J3X	^GBEDY	mCML42	fE4V4L	lVarnham	qVarnham	pClara	gf	z1	b19010000	d19010000
+iY3X85	^S2J3X	mCML42	fE4V4L	lVarnham	qVarnham	pEliza	gf	z1	b19010000	d19010000
+iOOWNL	^Y3X85	mCML42	fE4V4L	lVarnham	qVarnham	pAlbert E	gm	z1	sNBVQ9	b19020000
+iNBVQ9	^OOWNL	gf	sOOWNL	lJordan	pEdith W	z1
+iR7HUQ	^OOWNL	mNBVQ9	fOOWNL	lVarnham	qVarnham	pEdward Roy	gm	z1	b19270000	d20130000
+iDANIQ	^OOWNL	mCML42	fE4V4L	lVarnham	qVarnham	pWalter A	gm	z1	sPU8S7	b19060000
+iPU8S7	^DANIQ	gf	sDANIQ	lSnow	pDoris A	z1
+iB1FP1	^DANIQ	mCML42	fE4V4L	lVarnham	qVarnham	pClara	gf	z1	b19150000
+iZR86K	^DPF64	gm	z1	sH11KI	pMartin	lRyan	mMIHUT	fMNX57	qRyan	b18780000	d19450000	r642556957 120 120
+iH11KI	^DPF64	gf	sZR86K	z1	pMary Ann	lDavis	mPVPUL	fINBJC	qDavis	b18760000	d19590000	r158887989 120 120
+iS6VU9	^ZR86K	mH11KI	fZR86K	lRyan	qRyan	pGeorge W	gm	z1	r519699880 120 120	b18960000	d19780000
+iK44RO	^DPF64	gm	sDPF64	lJones	pRichard Ivor	z1	r410436492 120 120	qJones	b19060000	d19740000
+iO3HWA	^S6VU9	mH11KI	fZR86K	lRyan	qRyan	pJames	gm	z1	b18980000	d19740000
+iYI5E7	^O3HWA	mH11KI	fZR86K	lRyan	qRyan	pJulia	gf	z1	sFWLBW	r479414937 120 120	b19020000	d19790000
+iPIZMZ	^YI5E7	mH11KI	fZR86K	lRyan	qRyan	pLouisa May	gf	z1	sSJRV3	r136739218 120 120	b19060000	d19950000
+iSJRV3	^PIZMZ	gm	sPIZMZ	lPaling	pJohn Thomas	z1	qPaling	b19040000	d19540000
+iFWLBW	^YI5E7	gm	sYI5E7	lHyslop	pFrederick R	z1	qHyslop	b19020000	d19390000
+iMNX57	^ZR86K	gm	z1	sMIHUT	pJames	lRyan	qRyan	b18360000	d18890000
+iMIHUT	^ZR86K	gf	sMNX57	z1	pBridget	lMaley	qMaley	b18390000	d19050000
+iINBJC	^H11KI	gm	z1	sPVPUL	pJoseph	lLangton	mWJUFJ	fVZLGF
+iPVPUL	^H11KI	gf	sINBJC	z1	pMaria Ann	lDavis	mUDBDX	fDPI5H
+iTFP9P	^ZR86K	mMIHUT	fMNX57	pThomas	lRyan	gm	z1	qRyan	b18570000
+iVKUYE	^TFP9P	mMIHUT	fMNX57	pAnnie	lRyan	gf	z1	qRyan	b18610000
+iLCO5C	^VKUYE	mMIHUT	fMNX57	pJane	lRyan	gf	z1	qRyan	b18630000
+iQXTFF	^LCO5C	mMIHUT	fMNX57	pMichael	lRyan	gm	z1	qRyan	b18640000
+iD4DOP	^QXTFF	mMIHUT	fMNX57	pGeorge	lRyan	gm	z1	qRyan	b18680000
+iJDCS8	^D4DOP	mMIHUT	fMNX57	gf	pMary	lRyan	z1	qRyan	b18700000
+iW9GGK	^JDCS8	mMIHUT	fMNX57	pMargaret	lRyan	gf	z1	qRyan	b18720000
+iOYPB1	^W9GGK	mMIHUT	fMNX57	pAlice	lRyan	gf	z1	qRyan	b18750000
+iY4ZS6	^OYPB1	mMIHUT	fMNX57	pJulia	lRyan	gf	z1	qRyan	b18750000
+iVZLGF	^INBJC	gm	z1	pThomas	lLangton
+iDPI5H	^PVPUL	gm	z1	sUDBDX	pBenjamin	lDavis
+iUDBDX	^PVPUL	gf	sDPI5H	z1	pMary Ann	lDavis
+iMC6B4	^MS9D7	gf	pDoris Mary	lWilliamson	z1	r181140588 120 120	mO1FZX	fYU6CL	sUK1OM	qWilliamson	b19210000	d20140000
+iEQD8U	^MS9D7	mMC6B4	fUK1OM	pRodney	lHammond	gm	z0	qHammond	b19440000
+iTQKWZ	^EQD8U	mMC6B4	fUK1OM	pRichard	lHammond	gm	sD67NR	qHammond	b19510000	r707043257 100 100
+iOJYRZ	^TQKWZ	mMC6B4	fUK1OM	pJohn	lHammond	qHammond	gm	z0	sPI9A8	r177795528 116 120
+iNQ0IR	^OJYRZ	mMC6B4	fUK1OM	lHammond	qHammond	pRobert	z1	gm	b19570000	r853276220 109 120
+iPI9A8	^OJYRZ	gf	sOJYRZ	lHammond	pCheryl	r901915296 110 120
+iVKYBM	^OJYRZ	mPI9A8	fOJYRZ	lHammond	qHammond	pSandie	gf	sP00UH	r797219959 81 120
+iP00UH	^VKYBM	gm	sVKYBM	lWilliams	pMike	r547143641 81 120
+iOXI7Y	^VKYBM	mPI9A8	fOJYRZ	lHammond	qHammond	pGemma	gf	sTDY9N	r334883103 101 120
+iTDY9N	^OXI7Y	gm	sOXI7Y	lBarrow	pMatthew	r374667090 106 120
+iD67NR	^TQKWZ	gf	sTQKWZ	lBarwick	pPamela	r663411901 100 100
+iHNJHF	^TQKWZ	mD67NR	fTQKWZ	lHammond	qHammond	pRichard	gm	sCJ20G	r566067715 104 119
+iT8XK6	^HNJHF	mD67NR	fTQKWZ	lHammond	qHammond	pMatthew	gm	r830078611 110 119
+iCQHEW	^JGI9F	mDPF64	fUOA5L	gf	pGwendowlen	lVarnham	z1	b19310000	d20040000	sEB7PM	r424855524 84 120
+iEB7PM	^CQHEW	gm	sCQHEW	lSmolka	pMedard	z1	b19250000	d19910000	r617821525 120 120
+iUK1OM	^MC6B4	gm	sMC6B4	lHammond	pWalter James	z1	mFRP75	fAXOZF	qHammond	b19150000	d19870000
+iAXOZF	^UK1OM	gm	sFRP75	pWalter	lHammond	qHammond M.M.	z1	b18920000	d19160000	mYRJQL	fJO41M	r421938916 101 120
+iFRP75	^UK1OM	gf	sAXOZF	pEthel Lucy	lSutton	z1	qSutton	b18900000	d19670000
+iJO41M	^AXOZF	gm	lHammond	z1	sYRJQL	pJames	qHammond	b18590000	d19480000
+iYRJQL	^AXOZF	gf	sJO41M	lHammond	z1	pAnne Maria
+iKTDRF	^L62E0	mQDHCI	fQ9R24	lClarke	qClarke	pRobert Foster	gm	z1	b19220000	d19250000	r754977859 120 120
+iQLMPU	^KTDRF	mQDHCI	fQ9R24	lClarke	qClarke	pBaby	gf	z1	b19200000	d19200000
+iFLDEC	^BITWS	gf	sBITWS	lClarke	pEmma	z1	b18640000
+iKVHMW	^BITWS	mFLDEC	fBITWS	lClarke	qClarke	pEdith Ellen	z1	gf	b18870000
+iTV3MN	^KVHMW	mFLDEC	fBITWS	lClarke	qClarke	pElsey	gf	z1	b18930000
+iF50GZ	^TV3MN	mFLDEC	fBITWS	lClarke	qClarke	pEve	gf	z1	b18980000
+iVNUOG	^F50GZ	mFLDEC	fBITWS	lClarke	qClarke	pUnknown Name	gf	z1	b18960000
+iW83ZW	^VNUOG	mFLDEC	fBITWS	lClarke	qClarke	gm	pHarry	z1	b19020000
+iXA8ZF	^W83ZW	mFLDEC	fBITWS	lClarke	qClarke	pVesta J	gf	z1	b19040000
+iYQAR4	^XA8ZF	mFLDEC	fBITWS	lClarke	qClarke	pBerta	gf	z1	b19050000
+iY66J7	^U4ULY	mU4ULY	fQVUD3	lRoussell	qRoussell	pMarjorie E R	gf	z1	d19870000
+iFEJG2	^G6LOT	gm	sG6LOT	lWheatley	pJohn	z1	b18860000	d19180000
+iCIUC1	^SQLHL	gf	sSQLHL	pJohanna	lMcEnirney	z1	b18890000	d19480000	mGII6G	fCFQIG
+iCFQIG	^CIUC1	gm	sGII6G	pJames	lMcEnirney	z1	d19070000
+iGII6G	^CIUC1	gf	sCFQIG	pMargaret	z1	d19480000	lMcEnirney
+iS26S1	^LPG2V	mIXWI4	fLPG2V	lHunter	qHunter	pElizabeth	gf	z1	b19350000	d20050000	r370829364 160 120
+iZG8WQ	^CQHEW	mCQHEW	fEB7PM	lPawson	qSmolka	pMaria	gf	b19520000
+iWIP1S	^ZG8WQ	mCQHEW	fEB7PM	lSmolka	qSmolka	pPaul	z0	gm	b19540000
+iCJ20G	^HNJHF	gf	sHNJHF	lHammond	pGemma	qMee	r457675069 108 120
+iCXFKM	^EQD8U	fNQ0IR	lHammond	qHammond	pTom	gm	r543297737 117 120
+iIWGIM	^CXFKM	fNQ0IR	lWorrall	qHammond	pClare	gf	sWNUEO	r921571687 117 119
+iWNUEO	^IWGIM	gm	sIWGIM	lWorrall	pSteve	r124162818 100 120
+pD5IT7 MS9D7	g
+pEFKSZ URO9I	e1
+pV9OZ3 XL79V	e1
+pERW0X UBIS0	e1
+pCWARE XL79V	e1
+pXAN5K XL79V	e1
+pDPF64 UOA5L	e1
+pDPF64 K2T9E	e1
+pDZT73 ZIPON	g
+pP7L5T PJTMK	e1
